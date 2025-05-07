@@ -18,7 +18,7 @@ Walter Hugo Arboleda Mazo
 
 <details>
   <summary><strong>Institución:</strong></summary>
-UNIVERSIDAD NACIONAL
+UNIVERSIDAD NACIONAL DE COLOMBIA
 </details>
 
 <details>
